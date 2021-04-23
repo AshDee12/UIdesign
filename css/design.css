@@ -1,3 +1,119 @@
 *{
-	background-color: gray;
+	
+}
+body{
+	margin: 0px;
+	background-color: #F9E79F;
+	text-align: center;
+}
+h1, h3 {
+    padding-top: 0px;
+    text-align: center;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    letter-spacing: 5px;
+}
+h4 a:hover {
+	background-color: white;
+	color: #F1948A;
+	font-weight: 100px;
+}
+h4 a {
+	text-decoration: none;
+}
+main img {
+    padding-bottom: 0px;
+    width: 400px;
+}
+main {
+    margin: 20px auto 0px;
+    background-color: #F1948A;
+    max-width: 800px;
+    padding: 20px;
+    border-radius: 30px;
+}
+footer{
+	margin: 0px;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	background-color: white;
+}
+
+/** LOG IN **/
+div.login {
+    border: 5px solid orange;
+    text-align: left;
+    margin: 50px auto;
+    background-color: white;
+    max-width: 300px;
+    padding: 20px;
+}
+ul.signup {
+    display: flex;
+    padding: 0;
+    margin: 0px auto;
+}
+ul.signup li {
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+	padding-right: 20px;
+}
+h4 {
+    margin-bottom: 7px;
+}
+
+/** HOME **/ 
+div.navtabs ul{
+	background-color: #F1948A;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+div.navtabs li{
+	display: inline-block;
+}
+div.navtabs a{
+	text-decoration: none;
+	color: white;
+	width: 140px;
+	display: block;
+	padding: 20px 15px;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+	font-size: 15px;
+}
+div.navtabs a:hover{
+	background: white;
+	color: orange;
+}
+header img {
+	width: 330px;
+	padding: 0px;
+	float: left;
+}
+header {
+    width: auto;
+    padding: 0px;
+    text-align: left;
+    margin-top: 1px;
+}
+div.title {
+    background-color: #F1948A;
+    padding-top: 80px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+.h3{
+	font-size: 40px;
+	letter-spacing: 2px;
+	color: white;
+}
+.h1{
+	font-size: 60px;
+	letter-spacing: 2px;
+	color: white;
 }
