@@ -117,3 +117,10 @@ div.title {
 	letter-spacing: 2px;
 	color: white;
 }
+main.info{
+	margin-top: 80px;
+	text-align: left;
+}
+span.title{
+	font-size: 30px;
+}
